@@ -26,7 +26,7 @@
 
 ## 注意事项
 
-编译时，需要确保 example.tex 文件和 xmu.cls 文件在同一目录内，并使用 xelatex 进行编译。如果使用 pdflatex 编译则可能编译失败。最终编译效果在 [example.pdf](https://github.com/Astolfo-Official/XMU-template/example.pdf) 中。可以直接在该示例基础上修改。
+编译时，需要确保 example.tex 文件和 xmu.cls 文件在同一目录内，并使用 xelatex 进行编译。如果使用 pdflatex 编译则可能编译失败。最终编译效果在 [example.pdf](https://github.com/Astolfo-Official/XMU-template/blob/main/example.pdf) 中。可以直接在该示例基础上修改。
 
 > 如果编译失败（尤其是 macOS系统），请**使用 xelatex 进行编译**。如果使用的是 VSCode 的 Latex Workshop 插件，需要选择 Recipe: latexmk (xelatex) 这一项。
 
